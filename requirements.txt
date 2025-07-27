@@ -1,0 +1,16 @@
+numpy<2.0
+pandas
+scikit-learn
+tensorflow
+tensorflow-hub
+matplotlib
+seaborn
+plotly
+fastapi
+uvicorn[standard]
+pydantic
+mlflow
+python-dotenv
+tqdm
+shap
+lime
