@@ -60,7 +60,7 @@ Created new meaningful features to improve model performance:
 ## Learning Resources
 
 - [Pandas Documentation](https://pandas.pydata.org/docs/) - For data manipulation and analysis
-- [TensorFlow Documentation](https://www.tensorflow.org/guide) - For machine learning frameworks
+- [Scikit Learn Documentation](https://scikit-learn.org/stable/user_guide.html) - For machine learning frameworks
 
 ---
 
